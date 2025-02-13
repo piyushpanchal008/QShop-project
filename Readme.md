@@ -17,5 +17,5 @@ QShop is a simple and interactive eCommerce website designed to provide a smooth
 - **JavaScript** - Functionality  
 - **AOS (Animate on Scroll)** - Smooth animations  
 
-## 📂 Project Structure
+
 
